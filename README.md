@@ -69,54 +69,66 @@
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analytics & BI
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
 ### 📈 Business Intelligence
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-4B0082?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-008080?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-556B2F?style=for-the-badge)
-![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-2E8B57?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Data%20Modeling-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Warehousing-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboard%20Design-00897B?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🧬 Pharma & Healthcare Domain Skills
-![Clinical Data](https://img.shields.io/badge/Clinical_Data_Analysis-8B0000?style=for-the-badge)
-![Pharma Analytics](https://img.shields.io/badge/Pharma_Analytics-800080?style=for-the-badge)
-![Regulatory Knowledge](https://img.shields.io/badge/Regulatory_Knowledge-2F4F4F?style=for-the-badge)
-![Life Sciences](https://img.shields.io/badge/Life_Sciences_Data-006400?style=for-the-badge)
+### 🧬 Pharma & Healthcare Domain
+<p>
+  <img src="https://img.shields.io/badge/Clinical%20Data-8E24AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pharma%20Analytics-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regulatory%20Knowledge-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Life%20Sciences-D81B60?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🤖 AI Tools for Data Analysts
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![PandasAI](https://img.shields.io/badge/PandasAI-20B2AA?style=for-the-badge)
-![AutoML](https://img.shields.io/badge/AutoML-FF8C00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4682B4?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PandasAI-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoML-FF7043?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5C6BC0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ### 🤖 AI Agents, No-Code & Automation
-![n8n](https://img.shields.io/badge/n8n-AI_Agents-FF6D00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/Lovable-AI_App_Builder-FF69B4?style=for-the-badge)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-5F9EA0?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-00ACC1?style=for-the-badge"/>
+</p>
 
 ---
 
 ### ❤️ Tools I Love Using
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -137,4 +149,7 @@
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*
+
+
+
 
