@@ -143,10 +143,20 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: www.linkedin.com/in/sakshi-kannor-b5504325a 
+- 📧 Email: sakshikannor@gmail.com  
 
 ---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+✨ “Without data, you're just another person with an opinion.” ✨
+</p>
+
 
 ⭐ *If you like my work, consider starring my repositories!*
 
